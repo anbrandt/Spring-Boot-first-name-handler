@@ -1,0 +1,3 @@
+First greeting from file
+Second greeting from file
+Third greeting from file
